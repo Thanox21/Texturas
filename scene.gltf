@@ -3,198 +3,86 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 984,
+      "count": 2143,
       "max": [
+        0.9999998807907104,
         1.0,
-        1.0,
-        2.2974863052368164
+        1.0
       ],
       "min": [
-        -1.1687772274017334,
-        -1.0,
+        -0.9999997019767761,
+        -0.9999997615814209,
         -1.0
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 11808,
+      "byteOffset": 25716,
       "componentType": 5126,
-      "count": 984,
-      "max": [
-        0.9951395988464355,
-        0.9993343949317932,
-        0.9914698004722595
-      ],
-      "min": [
-        -0.9951395988464355,
-        -0.9993343949317932,
-        -0.9914698004722595
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 1,
-      "componentType": 5126,
-      "count": 984,
-      "max": [
-        0.9468923807144165,
-        0.9938995242118835
-      ],
-      "min": [
-        0.025296896696090698,
-        0.03044423833489418
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "componentType": 5125,
-      "count": 4182,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 23616,
-      "componentType": 5126,
-      "count": 991,
+      "count": 2143,
       "max": [
         1.0,
         1.0,
-        2.2974863052368164
+        1.0
       ],
       "min": [
-        -1.1687772274017334,
+        -1.0,
         -1.0,
         -1.0
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 2,
-      "byteOffset": 35508,
-      "componentType": 5126,
-      "count": 991,
-      "max": [
-        0.9951395988464355,
-        0.9993343949317932,
-        0.9914698004722595
-      ],
-      "min": [
-        -0.9951395988464355,
-        -0.9993343949317932,
-        -0.9914698004722595
-      ],
-      "type": "VEC3"
-    },
-    {
       "bufferView": 1,
-      "byteOffset": 7872,
       "componentType": 5126,
-      "count": 991,
+      "count": 2143,
       "max": [
-        0.9468923807144165,
-        0.7030783891677856
+        1.0,
+        1.0
       ],
       "min": [
-        0.025296896696090698,
-        0.01677236519753933
+        0.0,
+        0.0
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 16728,
       "componentType": 5125,
-      "count": 4182,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 47400,
-      "componentType": 5126,
-      "count": 1050,
-      "max": [
-        1.0,
-        1.0,
-        2.2974863052368164
-      ],
-      "min": [
-        -1.1687772274017334,
-        -1.0,
-        -1.0
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 60000,
-      "componentType": 5126,
-      "count": 1050,
-      "max": [
-        0.9951395988464355,
-        0.9993343949317932,
-        0.9914698004722595
-      ],
-      "min": [
-        -0.9951395988464355,
-        -0.9993343949317932,
-        -0.9914698004722595
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 15800,
-      "componentType": 5126,
-      "count": 1050,
-      "max": [
-        0.9468923807144165,
-        0.4027778208255768
-      ],
-      "min": [
-        0.010821100324392319,
-        0.02067861333489418
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 33456,
-      "componentType": 5125,
-      "count": 4182,
+      "count": 11904,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "cozypoly3d (https://sketchfab.com/cozypoly3d)",
+      "author": "Paul (https://sketchfab.com/paul_paul_paul)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/free-milk-alternative-packages-drink-8f512b4ad5444fec9874271068e0be4b",
-      "title": "FREE_Milk Alternative Packages Drink"
+      "source": "https://sketchfab.com/3d-models/free-skybox-anime-sky-56a60c1d1e8b44eabff138374f996d8f",
+      "title": "FREE - SkyBox Anime Sky"
     },
-    "generator": "Sketchfab-15.49.0",
+    "generator": "Sketchfab-15.29.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 50184,
+      "byteLength": 47616,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 24200,
-      "byteOffset": 50184,
+      "byteLength": 17144,
+      "byteOffset": 47616,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 72600,
-      "byteOffset": 74384,
+      "byteLength": 51432,
+      "byteOffset": 64760,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -202,31 +90,56 @@
   ],
   "buffers": [
     {
-      "byteLength": 146984,
+      "byteLength": 116192,
       "uri": "scene.bin"
     }
   ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
   "images": [
     {
-      "uri": "textures/Material.002_baseColor.png"
+      "uri": "textures/Scene_-_Root_diffuse.jpeg"
     }
   ],
   "materials": [
     {
-      "doubleSided": true,
-      "name": "Material.002",
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 0
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.8211145618000169
-      }
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 0
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.4,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Scene_-_Root"
     }
   ],
   "meshes": [
     {
-      "name": "Milk_Material.002_0",
+      "name": "Sphere__0",
       "primitives": [
         {
           "attributes": {
@@ -235,36 +148,6 @@
             "TEXCOORD_0": 2
           },
           "indices": 3,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Almond Milk_Material.002_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 5,
-            "POSITION": 4,
-            "TEXCOORD_0": 6
-          },
-          "indices": 7,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Soya Milk_Material.002_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 9,
-            "POSITION": 8,
-            "TEXCOORD_0": 10
-          },
-          "indices": 11,
           "material": 0,
           "mode": 4
         }
@@ -318,13 +201,11 @@
         0.0,
         1.0
       ],
-      "name": "00.fbx"
+      "name": "7421f569dc814a35afbc2a2c7392fadf.fbx"
     },
     {
       "children": [
-        3,
-        5,
-        7
+        3
       ],
       "name": "RootNode"
     },
@@ -333,84 +214,28 @@
         4
       ],
       "matrix": [
-        -81.68827819824186,
-        -7.141416357538964e-06,
+        50000.0,
         0.0,
         0.0,
-        -1.1634844073192288e-12,
-        1.3308709827752651e-05,
-        81.6882781982411,
         0.0,
-        -8.74227798045637e-06,
-        99.99999999999828,
-        -1.6292067983592062e-05,
+        0.0,
+        -0.00814603396959157,
+        -49999.99999999934,
+        0.0,
+        0.0,
+        49999.99999999934,
+        -0.00814603396959157,
         0.0,
         0.0,
         0.0,
         0.0,
         1.0
       ],
-      "name": "Milk"
+      "name": "Sphere"
     },
     {
       "mesh": 0,
-      "name": "Milk_Material.002_0"
-    },
-    {
-      "children": [
-        6
-      ],
-      "matrix": [
-        -81.68827819824186,
-        -7.141416357538964e-06,
-        0.0,
-        0.0,
-        -1.1634844073192288e-12,
-        1.3308709827752651e-05,
-        81.6882781982411,
-        0.0,
-        -8.74227798045637e-06,
-        99.99999999999828,
-        -1.6292067983592062e-05,
-        0.0,
-        0.0,
-        0.0,
-        -200.0,
-        1.0
-      ],
-      "name": "Almond Milk"
-    },
-    {
-      "mesh": 1,
-      "name": "Almond Milk_Material.002_0"
-    },
-    {
-      "children": [
-        8
-      ],
-      "matrix": [
-        -81.68827819824186,
-        -7.141416357538964e-06,
-        0.0,
-        0.0,
-        -1.1634844073192288e-12,
-        1.3308709827752651e-05,
-        81.6882781982411,
-        0.0,
-        -8.74227798045637e-06,
-        99.99999999999828,
-        -1.6292067983592062e-05,
-        0.0,
-        0.0,
-        0.0,
-        200.0,
-        1.0
-      ],
-      "name": "Soya Milk"
-    },
-    {
-      "mesh": 2,
-      "name": "Soya Milk_Material.002_0"
+      "name": "Sphere__0"
     }
   ],
   "samplers": [
