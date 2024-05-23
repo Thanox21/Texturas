@@ -1,11 +1,11 @@
 Model Information:
-* title:	Aqua | Anime chibi model
-* source:	https://sketchfab.com/3d-models/aqua-anime-chibi-model-549de66768ed422681106d3028d1cf4f
-* author:	Partaevil (https://sketchfab.com/Partaevil)
+* title:	Free Grassland Tree - Proto Series
+* source:	https://sketchfab.com/3d-models/free-grassland-tree-proto-series-dd3ee27073ac4bda84b4c97aaf72bc69
+* author:	BitGem (https://sketchfab.com/bitgem)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Aqua | Anime chibi model" (https://sketchfab.com/3d-models/aqua-anime-chibi-model-549de66768ed422681106d3028d1cf4f) by Partaevil (https://sketchfab.com/Partaevil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Free Grassland Tree - Proto Series" (https://sketchfab.com/3d-models/free-grassland-tree-proto-series-dd3ee27073ac4bda84b4c97aaf72bc69) by BitGem (https://sketchfab.com/bitgem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
